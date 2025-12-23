@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this framework, please cite it as follows."
+authors:
+- family-names: "Teo"
+  given-names: "Lawrence Kah Hoong"
+  orcid: "https://orcid.org/0009-0006-1196-0762"
+title: "Project Agora: CF-DSL & Topological AGI Alignment"
+version: 1.0.0
+date-released: 2025-12-23
